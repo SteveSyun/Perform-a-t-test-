@@ -13,5 +13,4 @@ t =< department : systems, status :?, age : 28, salary : 50K >
 
 
 OUTPUT: ![Screen Shot 2021-06-15 at 12 02 08 AM](https://user-images.githubusercontent.com/43187819/121995683-fa092f00-cd6c-11eb-8684-88fcce0dc264.png)
-![Screen Shot 2020-11-15 at 2 40 17 PM](https://user-images.githubusercontent.com/43187819/121995686-fa092f00-cd6c-11eb-8efd-e2842b7e459d.png)
-![github remoteScreen Shot 2018-12-04 at 12 56 12 AM](https://user-images.githubusercontent.com/43187819/121995690-faa1c580-cd6c-11eb-9ff1-d209ac669682.png)
+!
